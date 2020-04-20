@@ -7,10 +7,10 @@ create-react-app <project_name>
 # Manage the project
 #
 ## Start the dev server
-npm start  /  yarn start   
+npm start  /   yarn start   
 
 ## Bundles the app into static files for prod
-npm build  /  yarn build
+npm build  /   yarn build
 
 ## Starts the test runner
-npm test   /  yarn test
+npm test   /   yarn test
